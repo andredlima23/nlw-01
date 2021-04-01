@@ -1,2 +1,2 @@
-# nlw-01
-Bootcamp da Rocketseat Next Level Week
+# Bootcamp da Rocketseat Next Level Week
+## Criação de um projeto chamado ECOLETA, voltado para o aprendizado em JavaScript, React e React Native.
